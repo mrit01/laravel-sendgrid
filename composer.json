@@ -1,5 +1,5 @@
 {
-    "name": "dev-mohammed/laravel-sendgrid-driver",
+    "name": "mrit01/laravel-sendgrid",
     "description": "This library adds a 'sendgrid' mail driver to Laravel.",
     "keywords": ["laravel", "sendgrid"],
     "license": "MIT",
@@ -24,8 +24,8 @@
     },
     "authors": [
         {
-            "name": "shingo.ichikawa",
-            "email": "ichikawa.shingo.0829@gmail.com"
+            "name": "mrit01",
+            "email": "ahmed.tech01@gmail.com"
         }
     ],
     "suggest": {
